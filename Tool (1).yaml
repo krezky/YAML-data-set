@@ -1,0 +1,21 @@
+user:
+  usernameID:
+    - kk2crt
+    - tl3crt
+    - dw4crt
+    - pp6crt
+    - Badger
+    - Chonky Cat
+    - Test
+  filepath: "C:/Python27/Scripts"
+  filetype: ["mayaBinary", "mayaAscii", "mayaLT", "OBJ", "audio", "EPS", "Adobe Illustrator", "Image", "FBX", "DAE_FBX"]
+  maxfiles: 20
+  maxfilesize: 10GB
+help: |
+  Welcome to the Import/Export tool developed by Kris Kirk
+
+  - Import: Download a file from the fourth dimension via a username and file type.
+
+  - Export: Upload the file to the fourth dimension via the username and file type assigned.
+
+  (For any further questions, please do not contact me and direct all your questions towards Richard Jones)
